@@ -1,0 +1,28 @@
+{
+    "name": "atmospherephp/atmosphere",
+    "description": "The atmosphere framework for PHP.",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Romano Schoonheim",
+            "email": "support@atmosphere.sh"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Processes\\": "Processes/",
+            "Services\\": "Services/"
+        }
+    },
+    "require": {
+        "atmospherephp/framework": "^0.0"
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "Testing\\": "Testing/"
+        }
+    },
+    "minimum-stability": "stable",
+    "prefer-stable": true
+}

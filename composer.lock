@@ -1,0 +1,68 @@
+{
+    "_readme": [
+        "This file locks the dependencies of your project to a known state",
+        "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
+        "This file is @generated automatically"
+    ],
+    "content-hash": "4d013ddd752d7cb9cc1605ce57589f81",
+    "packages": [
+        {
+            "name": "atmospherephp/framework",
+            "version": "0.0.1",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/atmosphere-php/Framework.git",
+                "reference": "fcf9b46b62ea4b8172de17ad6df8048f6401a9ae"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/atmosphere-php/Framework/zipball/fcf9b46b62ea4b8172de17ad6df8048f6401a9ae",
+                "reference": "fcf9b46b62ea4b8172de17ad6df8048f6401a9ae",
+                "shasum": ""
+            },
+            "require-dev": {
+                "phpunit/phpunit": "^9.6.3"
+            },
+            "type": "library",
+            "autoload": {
+                "psr-4": {
+                    "Atmospherephp\\Framework\\": "src/"
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "authors": [
+                {
+                    "name": "Romano Schoonheim",
+                    "email": "support@atmosphere.sh"
+                }
+            ],
+            "description": "Atmosphere framework for PHP.",
+            "keywords": [
+                "atmosphere",
+                "atmosphere-framework",
+                "atmospherephp",
+                "framework",
+                "laravel-alternative",
+                "php",
+                "php-framework"
+            ],
+            "support": {
+                "issues": "https://github.com/atmosphere-php/Framework/issues",
+                "source": "https://github.com/atmosphere-php/Framework/tree/0.0.1"
+            },
+            "time": "2023-02-08T12:56:16+00:00"
+        }
+    ],
+    "packages-dev": [],
+    "aliases": [],
+    "minimum-stability": "stable",
+    "stability-flags": [],
+    "prefer-stable": true,
+    "prefer-lowest": false,
+    "platform": [],
+    "platform-dev": [],
+    "plugin-api-version": "2.3.0"
+}
