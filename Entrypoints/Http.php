@@ -11,4 +11,4 @@ $application = new Application(
     kernel: new HttpKernel(),
 );
 
-echo "Sooner or later, I'll be a web application.";
+$application->run();
