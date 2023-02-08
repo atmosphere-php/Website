@@ -8,16 +8,16 @@
     "packages": [
         {
             "name": "atmospherephp/framework",
-            "version": "0.0.4",
+            "version": "0.0.8",
             "source": {
                 "type": "git",
                 "url": "https://github.com/atmosphere-php/Framework.git",
-                "reference": "e70d75b6de11a39117b3cf21f0aecd5b4fae5550"
+                "reference": "343f6b5f613780259d1ed8ea45229f76eea89cf8"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/atmosphere-php/Framework/zipball/e70d75b6de11a39117b3cf21f0aecd5b4fae5550",
-                "reference": "e70d75b6de11a39117b3cf21f0aecd5b4fae5550",
+                "url": "https://api.github.com/repos/atmosphere-php/Framework/zipball/343f6b5f613780259d1ed8ea45229f76eea89cf8",
+                "reference": "343f6b5f613780259d1ed8ea45229f76eea89cf8",
                 "shasum": ""
             },
             "require-dev": {
@@ -51,9 +51,9 @@
             ],
             "support": {
                 "issues": "https://github.com/atmosphere-php/Framework/issues",
-                "source": "https://github.com/atmosphere-php/Framework/tree/0.0.4"
+                "source": "https://github.com/atmosphere-php/Framework/tree/0.0.8"
             },
-            "time": "2023-02-08T14:51:45+00:00"
+            "time": "2023-02-08T15:12:01+00:00"
         }
     ],
     "packages-dev": [],
